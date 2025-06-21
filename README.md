@@ -1,6 +1,56 @@
-# Vue 3 + TypeScript 项目模板
+# Vue 3 + NaiveUI + TypeScript 项目模板
+
+<div align="center">
+
+![Vue 3](https://img.shields.io/badge/Vue-3.5.13-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-6.3.5-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Naive UI](https://img.shields.io/badge/Naive%20UI-2.42.0-18A058?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4.0.0-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-3.0.3-FFD859?style=flat-square)
+
+</div>
+
+🚀 **现代化的 Vue 3 + TypeScript 项目模板**
 
 这是一个基于 Vue 3 + TypeScript 的现代化前端项目模板，集成了多个主流技术栈和工具链，适合快速启动新项目。
+
+## ✨ 特性
+
+- 🎯 **Vue 3** + **TypeScript** - 现代化的前端开发体验
+- 🎨 **Naive UI** - 优雅的 Vue 3 组件库
+- 🎭 **IconPark** - 丰富的图标库支持
+- 🎪 **Tailwind CSS** - 实用程序优先的 CSS 框架
+- 🔥 **Vite** - 极速的构建工具
+- 📦 **Pinia** - 轻量级状态管理
+- 🛣️ **Vue Router** - 官方路由管理
+- 🌐 **Axios** - 完整的 HTTP 客户端封装
+- 🤖 **Auto Import** - 智能自动导入
+- 📱 **响应式设计** - 移动端友好
+- 🔧 **开箱即用** - 零配置启动开发
+
+## 🚀 快速开始
+
+```bash
+# 克隆项目
+git clone https://github.com/Msg-Lbo/vue3-naive-template.git
+
+# 进入项目目录
+cd vue3-naive-template
+
+# 安装依赖
+pnpm install
+
+# 启动开发服务器
+pnpm dev
+```
+
+## 🎯 使用场景
+
+- ✅ 中后台管理系统
+- ✅ 企业级应用开发
+- ✅ 快速原型开发
+- ✅ 学习现代前端技术栈
 
 ## 🚀 技术栈
 
@@ -256,4 +306,52 @@ Components({
 4. **API 开发**: 使用封装好的 request 方法，确保类型安全
 5. **图标使用**: 直接使用 IconPark 图标名称作为组件，无需手动导入
 
-这个项目模板为现代 Vue 3 应用开发提供了完整的基础设施，可以快速启动新项目并保持代码的可维护性和类型安全性。 
+这个项目模板为现代 Vue 3 应用开发提供了完整的基础设施，可以快速启动新项目并保持代码的可维护性和类型安全性。
+
+## 🤝 贡献
+
+欢迎提交 Issue 和 Pull Request 来帮助改进这个项目模板！
+
+### 贡献指南
+
+1. Fork 本仓库
+2. 创建你的特性分支 (`git checkout -b feature/AmazingFeature`)
+3. 提交你的更改 (`git commit -m 'Add some AmazingFeature'`)
+4. 推送到分支 (`git push origin feature/AmazingFeature`)
+5. 打开一个 Pull Request
+
+## 📄 许可证
+
+本项目基于 [MIT](LICENSE) 许可证开源。
+
+## ⭐ 支持
+
+如果这个项目对你有帮助，请给它一个 ⭐️！
+
+## 📞 联系
+
+- 作者：[Msg-Lbo]
+- 邮箱：msglbo@foxmail.com
+- GitHub：[@Msg-Lbo](https://github.com/Msg-Lbo)
+
+## 🙏 致谢
+
+感谢以下优秀的开源项目：
+
+- [Vue.js](https://vuejs.org/)
+- [Naive UI](https://www.naiveui.com/)
+- [Vite](https://vitejs.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [IconPark](https://iconpark.oceanengine.com/)
+- [Pinia](https://pinia.vuejs.org/)
+
+---
+
+<div align="center">
+
+**[⬆ 回到顶部](#vue-3--naiveui--typescript-项目模板)**
+
+Made with ❤️ by [Msg-Lbo]
+
+</div> 
