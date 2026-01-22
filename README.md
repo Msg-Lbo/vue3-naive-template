@@ -2,12 +2,12 @@
 
 <div align="center">
 
-![Vue 3](https://img.shields.io/badge/Vue-3.5.13-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-6.3.5-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Naive UI](https://img.shields.io/badge/Naive%20UI-2.42.0-18A058?style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4.0.0-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-3.0.3-FFD859?style=flat-square)
+![Vue 3](https://img.shields.io/badge/Vue-3.5.27-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-7.3.1-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Naive UI](https://img.shields.io/badge/Naive%20UI-2.43.2-18A058?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4.1.18-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-3.0.4-FFD859?style=flat-square)
 
 </div>
 
@@ -55,31 +55,31 @@ pnpm dev
 ## 🚀 技术栈
 
 ### 核心框架
-- **Vue 3** (^3.5.13) - 渐进式 JavaScript 框架
-- **TypeScript** (~5.8.3) - 静态类型检查
-- **Vite** (^6.3.5) - 新一代前端构建工具
+- **Vue 3** (^3.5.27) - 渐进式 JavaScript 框架
+- **TypeScript** (~5.9.3) - 静态类型检查
+- **Vite** (^7.3.1) - 新一代前端构建工具
 
 ### 路由和状态管理
-- **Vue Router** (^4.5.1) - 官方路由管理器
-- **Pinia** (^3.0.3) - 新一代状态管理库
+- **Vue Router** (^4.6.4) - 官方路由管理器
+- **Pinia** (^3.0.4) - 新一代状态管理库
 
 ### UI 组件库
-- **Naive UI** (^2.42.0) - 现代化的 Vue 3 组件库
+- **Naive UI** (^2.43.2) - 现代化的 Vue 3 组件库
 
 ### 图标库
 - **@icon-park/vue-next** (^1.4.2) - 字节跳动出品的图标库，支持 Vue 3
 
 ### 样式解决方案
-- **Tailwind CSS** (^4.0.0) - 实用程序优先的 CSS 框架
+- **Tailwind CSS** (^4.1.18) - 实用程序优先的 CSS 框架
 - **PostCSS** (^8.5.6) - CSS 处理工具
-- **Autoprefixer** (^10.4.21) - 自动添加 CSS 前缀
+- **Autoprefixer** (^10.4.23) - 自动添加 CSS 前缀
 
 ### 网络请求
-- **Axios** (^1.10.0) - HTTP 客户端
+- **Axios** (^1.13.2) - HTTP 客户端
 
 ### 自动化工具
-- **unplugin-auto-import** (^19.3.0) - 自动导入 Vue 3 API
-- **unplugin-vue-components** (^28.7.0) - 自动导入组件
+- **unplugin-auto-import** (^21.0.0) - 自动导入 Vue 3 API
+- **unplugin-vue-components** (^31.0.0) - 自动导入组件
 
 ## 📁 项目结构
 
