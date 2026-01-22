@@ -10,23 +10,23 @@
   },
   "dependencies": {
     "@icon-park/vue-next": "^1.4.2",
-    "unplugin-auto-import": "^19.3.0",
-    "unplugin-vue-components": "^28.7.0",
-    "vue": "^3.5.13"
+    "unplugin-auto-import": "^21.0.0",
+    "unplugin-vue-components": "^31.0.0",
+    "vue": "^3.5.27"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.1.10",
-    "@vitejs/plugin-vue": "^5.2.3",
-    "@vue/tsconfig": "^0.7.0",
-    "autoprefixer": "^10.4.21",
-    "axios": "^1.10.0",
-    "naive-ui": "^2.42.0",
-    "pinia": "^3.0.3",
+    "@tailwindcss/postcss": "^4.1.18",
+    "@vitejs/plugin-vue": "^6.0.3",
+    "@vue/tsconfig": "^0.8.1",
+    "autoprefixer": "^10.4.23",
+    "axios": "^1.13.2",
+    "naive-ui": "^2.43.2",
+    "pinia": "^3.0.4",
     "postcss": "^8.5.6",
-    "tailwindcss": "^4.0.0",
-    "typescript": "~5.8.3",
-    "vite": "^6.3.5",
-    "vue-router": "^4.5.1",
-    "vue-tsc": "^2.2.8"
+    "tailwindcss": "^4.1.18",
+    "typescript": "~5.9.3",
+    "vite": "^7.3.1",
+    "vue-router": "^4.6.4",
+    "vue-tsc": "^3.2.2"
   }
 }
